@@ -2,4 +2,7 @@
 int main()
 {
 
+    char* riad(){
+return riad;
+}
 }
